@@ -9,17 +9,5 @@
         "name": "Elisabeth Dichmann"
     },
     "items": [
-        {
-            "id": "https://elisabethdichmann.github.io/kontakt.html",
-            "url": "https://elisabethdichmann.github.io/kontakt.html",
-            "title": "Kontakt",
-            "author": {
-                "name": "Elisabeth Dichmann"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-01T20:53:34+02:00",
-            "date_modified": "2023-10-01T20:53:34+02:00"
-        }
     ]
 }
