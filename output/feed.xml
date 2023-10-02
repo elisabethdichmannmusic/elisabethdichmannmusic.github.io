@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Elisabeth Dichmann</title>
+    <link href="https://elisabethdichmann.github.io/feed.xml" rel="self" />
+    <link href="https://elisabethdichmann.github.io" />
+    <updated>2023-10-02T00:16:11+02:00</updated>
+    <author>
+        <name>Elisabeth Dichmann</name>
+    </author>
+    <id>https://elisabethdichmann.github.io</id>
+
+    <entry>
+        <title>Egne kompositioner</title>
+        <author>
+            <name>Elisabeth Dichmann</name>
+        </author>
+        <link href="https://elisabethdichmann.github.io/egne-kompositioner.html"/>
+        <id>https://elisabethdichmann.github.io/egne-kompositioner.html</id>
+            <category term="Projekter"/>
+
+        <updated>2023-10-01T22:34:49+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ragnarok</title>
+        <author>
+            <name>Elisabeth Dichmann</name>
+        </author>
+        <link href="https://elisabethdichmann.github.io/ragnarok.html"/>
+        <id>https://elisabethdichmann.github.io/ragnarok.html</id>
+            <category term="Projekter"/>
+
+        <updated>2023-10-01T22:34:32+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>VISHESH &amp; ELI</title>
+        <author>
+            <name>Elisabeth Dichmann</name>
+        </author>
+        <link href="https://elisabethdichmann.github.io/vishesh-and-eli.html"/>
+        <id>https://elisabethdichmann.github.io/vishesh-and-eli.html</id>
+            <category term="Projekter"/>
+
+        <updated>2023-10-01T22:34:08+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Vesselil</title>
+        <author>
+            <name>Elisabeth Dichmann</name>
+        </author>
+        <link href="https://elisabethdichmann.github.io/vesselil.html"/>
+        <id>https://elisabethdichmann.github.io/vesselil.html</id>
+        <media:content url="https://elisabethdichmann.github.io/media/posts/7/Vesselil-home.jpeg" medium="image" />
+            <category term="Projekter"/>
+
+        <updated>2023-10-02T00:16:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://elisabethdichmann.github.io/media/posts/7/Vesselil-home.jpeg" alt="" />
+                    “.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.”
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elisabethdichmann.github.io/media/posts/7/Vesselil-home.jpeg" class="type:primaryImage" alt="" /></p>
+                <p><strong>“.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.”</strong></p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/rKgRt8qnpek?si=PJw5LqpnVk2sPB2u" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

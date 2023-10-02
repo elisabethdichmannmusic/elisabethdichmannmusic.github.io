@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/sitemap.xml

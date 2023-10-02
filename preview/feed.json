@@ -1,0 +1,68 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Elisabeth Dichmann",
+    "description": "",
+    "home_page_url": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview",
+    "feed_url": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Elisabeth Dichmann"
+    },
+    "items": [
+        {
+            "id": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/egne-kompositioner.html",
+            "url": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/egne-kompositioner.html",
+            "title": "Egne kompositioner",
+            "author": {
+                "name": "Elisabeth Dichmann"
+            },
+            "tags": [
+                   "Projekter"
+            ],
+            "date_published": "2023-10-01T22:34:49+02:00",
+            "date_modified": "2023-10-01T22:34:49+02:00"
+        },
+        {
+            "id": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/ragnarok.html",
+            "url": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/ragnarok.html",
+            "title": "Ragnarok",
+            "author": {
+                "name": "Elisabeth Dichmann"
+            },
+            "tags": [
+                   "Projekter"
+            ],
+            "date_published": "2023-10-01T22:34:32+02:00",
+            "date_modified": "2023-10-01T22:34:32+02:00"
+        },
+        {
+            "id": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/vishesh-and-eli.html",
+            "url": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/vishesh-and-eli.html",
+            "title": "VISHESH &amp; ELI",
+            "author": {
+                "name": "Elisabeth Dichmann"
+            },
+            "tags": [
+                   "Projekter"
+            ],
+            "date_published": "2023-10-01T22:34:08+02:00",
+            "date_modified": "2023-10-01T22:34:08+02:00"
+        },
+        {
+            "id": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/vesselil.html",
+            "url": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/vesselil.html",
+            "title": "Vesselil",
+            "summary": "“.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.”",
+            "content_html": "<p><strong>“.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.”</strong></p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/rKgRt8qnpek?si=PJw5LqpnVk2sPB2u\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/media/posts/7/Vesselil-home.jpeg",
+            "author": {
+                "name": "Elisabeth Dichmann"
+            },
+            "tags": [
+                   "Projekter"
+            ],
+            "date_published": "2023-10-01T22:33:47+02:00",
+            "date_modified": "2023-10-02T00:16:11+02:00"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://elisabethdichmann.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://elisabethdichmann.github.io/</loc>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/bio.html</loc>
+<lastmod>2023-10-01T20:53:20+02:00</lastmod>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/egne-kompositioner.html</loc>
+<lastmod>2023-10-01T22:34:49+02:00</lastmod>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/elisabeth-dichmann.html</loc>
+<lastmod>2023-10-01T22:26:22+02:00</lastmod>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/kontakt.html</loc>
+<lastmod>2023-10-01T21:37:18+02:00</lastmod>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/ragnarok.html</loc>
+<lastmod>2023-10-01T22:34:32+02:00</lastmod>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/undervisning.html</loc>
+<lastmod>2023-10-01T20:53:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/vesselil.html</loc>
+<lastmod>2023-10-02T00:16:11+02:00</lastmod>
+<image:image>
+<image:loc>https://elisabethdichmann.github.io/media/posts/7/Vesselil-home.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elisabethdichmann.github.io/vishesh-and-eli.html</loc>
+<lastmod>2023-10-01T22:34:08+02:00</lastmod>
+</url>
+</urlset>
