@@ -3,12 +3,25 @@
     <title>Elisabeth Dichmann</title>
     <link href="file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/feed.xml" rel="self" />
     <link href="file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview" />
-    <updated>2023-10-02T00:16:11+02:00</updated>
+    <updated>2023-10-04T13:16:42+02:00</updated>
     <author>
         <name>Elisabeth Dichmann</name>
     </author>
     <id>file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview</id>
 
+    <entry>
+        <title>Elisabeths nye projekt</title>
+        <author>
+            <name>Elisabeth Dichmann</name>
+        </author>
+        <link href="file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/elisabeths-nye-projekt.html"/>
+        <id>file:////Users/foobar/Documents/Publii/sites/elisabethdichmann/preview/elisabeths-nye-projekt.html</id>
+            <category term="Projekter"/>
+
+        <updated>2023-10-04T13:16:42+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Egne kompositioner</title>
         <author>

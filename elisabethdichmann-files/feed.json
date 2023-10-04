@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://elisabethdichmann.github.io/elisabeths-nye-projekt.html",
+            "url": "https://elisabethdichmann.github.io/elisabeths-nye-projekt.html",
+            "title": "Elisabeths nye projekt",
+            "author": {
+                "name": "Elisabeth Dichmann"
+            },
+            "tags": [
+                   "Projekter"
+            ],
+            "date_published": "2023-10-04T13:16:42+02:00",
+            "date_modified": "2023-10-04T13:16:42+02:00"
+        },
+        {
             "id": "https://elisabethdichmann.github.io/egne-kompositioner.html",
             "url": "https://elisabethdichmann.github.io/egne-kompositioner.html",
             "title": "Egne kompositioner",

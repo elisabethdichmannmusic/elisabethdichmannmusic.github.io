@@ -125,14 +125,19 @@
         "md5": "7d603e5fe5d8e372ac61c382c18844bb"
     },
     {
+        "path": "elisabeths-nye-projekt.html",
+        "type": "file",
+        "md5": "dded7d7baf4ee2138ef289c615b8a9d2"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "369839ef12e0d28d740ed37b3b95286c"
+        "md5": "1fc600718f908d35379320ee47d537c1"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ef8a53c401a9e91f37d8e15c030dbab3"
+        "md5": "9ddd7ccbbe8cd86f2e460d9ef92305d7"
     },
     {
         "path": "index.html",
@@ -212,7 +217,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7becdd6bd6b34cbcaf0cdd10265ca33d"
+        "md5": "859e110ba0bb6472dbb5489b70687dd7"
     },
     {
         "path": "sitemap.xsl",
@@ -237,7 +242,7 @@
     {
         "path": "/tags/projekter/index.html",
         "type": "file",
-        "md5": "8b3c2fdb66316ecac3bdf1dfcd5339cb"
+        "md5": "c15cc043d46e944be81d1c0373f8269d"
     },
     {
         "path": "undervisning.html",
