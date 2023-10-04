@@ -10,22 +10,12 @@
     },
     "items": [
         {
-            "id": "https://elisabethdichmann.github.io/elisabeths-nye-projekt.html",
-            "url": "https://elisabethdichmann.github.io/elisabeths-nye-projekt.html",
-            "title": "Elisabeths nye projekt",
-            "author": {
-                "name": "Elisabeth Dichmann"
-            },
-            "tags": [
-                   "Projekter"
-            ],
-            "date_published": "2023-10-04T13:16:42+02:00",
-            "date_modified": "2023-10-04T13:16:42+02:00"
-        },
-        {
             "id": "https://elisabethdichmann.github.io/egne-kompositioner.html",
             "url": "https://elisabethdichmann.github.io/egne-kompositioner.html",
-            "title": "Egne kompositioner",
+            "title": "Udvalgte kompositioner",
+            "summary": "https://youtu.be/oBbOJBrwpyY?si=YZLFnVVYICWwGKJ7 [tekst om mine tanker og indgangsvinkel til komposition] Blå Vals (komposition af Elisabeth Dichmann, 2015, for strygetrio) https://youtu.be/rNhjSSNCS3E?si=25-EnsxEY3rUCP5e Din Scottish (komposition af Elisabeth Dichmann, 2018, for strygetrio) https://www.youtube.com/watch?v=YR3G2lM1oEg Midnat i Sønderho (komposition af Elisabeth Dichmann, 2017, for strygetrio) https://youtu.be/VSsiANCsOlc?si=ynozq39xXNU110MQ Tweeds Light (komposition af Elisabeth&hellip;",
+            "content_html": "<p><a href=\"https://youtu.be/oBbOJBrwpyY?si=YZLFnVVYICWwGKJ7\">https://youtu.be/oBbOJBrwpyY?si=YZLFnVVYICWwGKJ7</a></p>\n<p>[tekst om mine tanker og indgangsvinkel til komposition]</p>\n<p> </p>\n<p>Blå Vals  (komposition af Elisabeth Dichmann, 2015, for strygetrio)</p>\n<p>https://youtu.be/rNhjSSNCS3E?si=25-EnsxEY3rUCP5e</p>\n<p><br>Din Scottish (komposition af Elisabeth Dichmann, 2018, for strygetrio)</p>\n<p><a href=\"https://www.youtube.com/watch?v=YR3G2lM1oEg\">https://www.youtube.com/watch?v=YR3G2lM1oEg</a></p>\n<p> </p>\n<p>Midnat i Sønderho (komposition af Elisabeth Dichmann, 2017, for strygetrio)</p>\n<p>https://youtu.be/VSsiANCsOlc?si=ynozq39xXNU110MQ</p>\n<p> </p>\n<p><br>Tweeds Light (komposition af Elisabeth Dichmann, 2022, for strygetrio)</p>\n<p>https://www.youtube.com/watch?v=a5iltdCLGcM<br> <br><a href=\"https://youtu.be/oBbOJBrwpyY?si=YZLFnVVYICWwGKJ7\"></a></p>\n<p> </p>\n<p>I Danmark er jeg født  (H.C. Andersen/Henrik Rung, 1850)</p>\n<p>https://youtu.be/yeZH6ZcG6oo?si=7FZNrI5oRvedXDyh</p>",
+            "image": "https://elisabethdichmann.github.io/media/posts/10/vlcsnap-2023-10-04-15h05m36s415.png",
             "author": {
                 "name": "Elisabeth Dichmann"
             },
@@ -33,12 +23,15 @@
                    "Projekter"
             ],
             "date_published": "2023-10-01T22:34:49+02:00",
-            "date_modified": "2023-10-01T22:34:49+02:00"
+            "date_modified": "2023-10-04T15:41:19+02:00"
         },
         {
             "id": "https://elisabethdichmann.github.io/ragnarok.html",
             "url": "https://elisabethdichmann.github.io/ragnarok.html",
             "title": "Ragnarok",
+            "summary": "https://www.dr.dk/om-dr/nyheder/huskomponist-fra-dr-er-klar-med-ragnarok-i-boernehoejde",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elisabethdichmann.github.io/media/posts/9/gallery/22.11.07-Ragnarok-Studie2-Christian-Larsen-18.jpg\" data-size=\"2048x1366\"><img loading=\"lazy\" src=\"https://elisabethdichmann.github.io/media/posts/9/gallery/22.11.07-Ragnarok-Studie2-Christian-Larsen-18-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://elisabethdichmann.github.io/media/posts/9/gallery/22.11.07-Ragnarok-Studie2-Christian-Larsen-19.jpg\" data-size=\"2048x1366\"><img loading=\"lazy\" src=\"https://elisabethdichmann.github.io/media/posts/9/gallery/22.11.07-Ragnarok-Studie2-Christian-Larsen-19-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://elisabethdichmann.github.io/media/posts/9/gallery/314419645_10158939073892283_7578018381629863790_n.jpg\" data-size=\"2048x1366\"><img loading=\"lazy\" src=\"https://elisabethdichmann.github.io/media/posts/9/gallery/314419645_10158939073892283_7578018381629863790_n-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>\n<p><strong>https://www.dr.dk/om-dr/nyheder/huskomponist-fra-dr-er-klar-med-ragnarok-i-boernehoejde</strong></p>\n<p> </p>\n<p> </p>",
+            "image": "https://elisabethdichmann.github.io/media/posts/9/22.11.07-Ragnarok-Studie2-Christian-Larsen-19-2.jpg",
             "author": {
                 "name": "Elisabeth Dichmann"
             },
@@ -46,12 +39,15 @@
                    "Projekter"
             ],
             "date_published": "2023-10-01T22:34:32+02:00",
-            "date_modified": "2023-10-01T22:34:32+02:00"
+            "date_modified": "2023-10-04T14:56:47+02:00"
         },
         {
             "id": "https://elisabethdichmann.github.io/vishesh-and-eli.html",
             "url": "https://elisabethdichmann.github.io/vishesh-and-eli.html",
             "title": "VISHESH &amp; ELI",
+            "summary": "Vishesh Kalimero (IN) &amp; Elisabeth Dichmann (DK) er to gamle venner, hver med deres særegne baggrund som strygere men med en fælles interesse for at udtrykke sig intuitivt gennem musik. Under duoens første møde opstod musikalske gnister og de sidenhen udviklet et symbiotisk sammenspil hvor&hellip;",
+            "content_html": "<p>Vishesh Kalimero (IN) &amp; Elisabeth Dichmann (DK) er to gamle venner, hver med deres særegne baggrund som strygere men med en fælles interesse for at udtrykke sig intuitivt gennem musik. Under duoens første møde opstod musikalske gnister og de sidenhen udviklet et symbiotisk sammenspil hvor de både samtaler med hinanden og med lytteren, og forsøger at vande, det der er blevet tørt. </p>\n<p> </p>\n<p><a href=\"https://www.youtube.com/watch?v=fgYTTJw2vIY\"><strong>https://www.youtube.com/watch?v=fgYTTJw2vIY</strong></a></p>\n<p> </p>\n<p><a href=\"https://www.youtube.com/watch?v=QiuVJEdTRkI\"><strong>https://www.youtube.com/watch?v=QiuVJEdTRkI</strong></a></p>",
+            "image": "https://elisabethdichmann.github.io/media/posts/8/330323932_957676148578503_2658763742050881999_n.jpg",
             "author": {
                 "name": "Elisabeth Dichmann"
             },
@@ -59,14 +55,14 @@
                    "Projekter"
             ],
             "date_published": "2023-10-01T22:34:08+02:00",
-            "date_modified": "2023-10-01T22:34:08+02:00"
+            "date_modified": "2023-10-04T16:00:35+02:00"
         },
         {
             "id": "https://elisabethdichmann.github.io/vesselil.html",
             "url": "https://elisabethdichmann.github.io/vesselil.html",
             "title": "Vesselil",
-            "summary": "“.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.”",
-            "content_html": "<p><strong>“.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.”</strong></p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/rKgRt8qnpek?si=PJw5LqpnVk2sPB2u\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "summary": "Vesselil - new album out “.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.” Vesselil er en moderne dansk DMA-nomineret stryge- og vokaltrio&hellip;",
+            "content_html": "<p>Vesselil - new album out<br>“.. the entire album is filled with gorgeous melodies, from the heartache of “I Vestervig, which its lovely upward spirals to the breathless lightness that aptly suffuses the closer, “Tweed’s Light.” </p>\n<p><br>Vesselil er en moderne dansk DMA-nomineret stryge- og vokaltrio med violin, bratsch, cello og sang. Trioen har med deres intense nærvær og hengivne sammenspil skabt et varieret, elegant og energifyldt koncertrepertoire med dybe rødder i den nordiske folkemusiktradition; en sindrig blanding af gamle sange og dansemelodier og nye kompositioner, der fører lytteren gennem rørende fortællinger, filmiske scenarier og sydende dansegulve.</p>\n<p> </p>\n<p><a href=\"https://www.youtube.com/watch?v=6vDdim8iFZk\"><strong>https://www.youtube.com/watch?v=6vDdim8iFZk</strong></a></p>\n<p> </p>\n<p><a href=\"https://www.youtube.com/watch?v=pjlPaxg-s2A\"><strong>https://www.youtube.com/watch?v=pjlPaxg-s2A</strong></a></p>",
             "image": "https://elisabethdichmann.github.io/media/posts/7/Vesselil-home.jpeg",
             "author": {
                 "name": "Elisabeth Dichmann"
@@ -75,7 +71,7 @@
                    "Projekter"
             ],
             "date_published": "2023-10-01T22:33:47+02:00",
-            "date_modified": "2023-10-02T00:16:11+02:00"
+            "date_modified": "2023-10-04T15:41:12+02:00"
         }
     ]
 }

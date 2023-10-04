@@ -12,7 +12,7 @@
         "frontSource": "post",
         "frontPost": 6,
         "frontGallery": false,
-        "heightHero": "80vh",
+        "heightHero": "60vh",
         "displayHeroImage": false,
         "uploadHero": "",
         "uploadHeroAlt": "",
