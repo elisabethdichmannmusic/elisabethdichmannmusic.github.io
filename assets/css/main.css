@@ -1304,6 +1304,15 @@ textarea {
   top: 0;
   z-index: 1;
 }
+
+.hero-frontpage {
+  background: var(--hero-bg);
+  height: 100vh;
+  position: relative;
+  top: 0;
+  z-index: 1;
+}
+
 .hero__content {
   bottom: 10%;
   color: var(--hero-text-color);
