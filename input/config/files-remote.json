@@ -112,7 +112,7 @@
     {
         "path": "bio.html",
         "type": "file",
-        "md5": "83826253c1dc249ad21dfe36d99ee4c7"
+        "md5": "522ceb55bb454e946ce8d69aa95b40fe"
     },
     {
         "path": "egne-kompositioner.html",
@@ -690,6 +690,56 @@
         "md5": "9742a6c01ac9ac2be0b77db1b7d6de92"
     },
     {
+        "path": "media/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/1/347246140_1169350701131352_3619747997587324101_n-1.jpg",
+        "type": "file",
+        "md5": "538dec8f09e6cee6db2a7911f7becb27"
+    },
+    {
+        "path": "media/tags/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/1/responsive/347246140_1169350701131352_3619747997587324101_n-1-2xl.jpg",
+        "type": "file",
+        "md5": "196390a0495b3960e504c6a8a0c0c618"
+    },
+    {
+        "path": "/media/tags/1/responsive/347246140_1169350701131352_3619747997587324101_n-1-lg.jpg",
+        "type": "file",
+        "md5": "f8f790ef5b16675ed11833f43ac7b75d"
+    },
+    {
+        "path": "/media/tags/1/responsive/347246140_1169350701131352_3619747997587324101_n-1-md.jpg",
+        "type": "file",
+        "md5": "e83c8518754a87409559895ef54d9c5a"
+    },
+    {
+        "path": "/media/tags/1/responsive/347246140_1169350701131352_3619747997587324101_n-1-sm.jpg",
+        "type": "file",
+        "md5": "ebd2bfedc81d249d0b427652f2811084"
+    },
+    {
+        "path": "/media/tags/1/responsive/347246140_1169350701131352_3619747997587324101_n-1-xl.jpg",
+        "type": "file",
+        "md5": "370313e5ca9142ac61fc4bb5f1bb0d31"
+    },
+    {
+        "path": "/media/tags/1/responsive/347246140_1169350701131352_3619747997587324101_n-1-xs.jpg",
+        "type": "file",
+        "md5": "085a0d0c59f90bd22a70d11d964f8910"
+    },
+    {
         "path": "ragnarok.html",
         "type": "file",
         "md5": "1e6778044a87a51fb31324c742594f1e"
@@ -702,7 +752,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9b8e7a19b8eae5e6ba7a703d34116671"
+        "md5": "bf1cc30a1e312e6ab37a43a21986f383"
     },
     {
         "path": "sitemap.xsl",
@@ -727,7 +777,7 @@
     {
         "path": "/tags/projekter/index.html",
         "type": "file",
-        "md5": "7ba779820c14b8dc27ecb29275d1bd27"
+        "md5": "583dff5d5e91b7234ef34d9f10f99199"
     },
     {
         "path": "undervisning.html",
